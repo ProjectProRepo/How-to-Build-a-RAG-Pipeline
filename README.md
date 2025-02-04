@@ -4,7 +4,7 @@ This tutorial demonstrates how to build a simple Retrieval-Augmented Generation 
 
 Make sure you have the following files ready before you start:
 - `attention.pdf`
-- `speech.txt` (from Nebeyou Musie's GitHub repository)
+- `speech.txt`
 
 ## Steps to Build the Pipeline
 
@@ -55,8 +55,9 @@ Finally, ensure that the results returned from the query are accurate and releva
 This is a critical step to refine the model and improve the accuracy of the results based on the use case.
 
 ## Next Steps
-This tutorial demonstrates the essential steps to build a basic RAG pipeline, from loading and processing data to embedding, indexing, and querying. 
+This tutorial demonstrates the essential steps to build a basic RAG pipeline, from loading and processing data to embedding, indexing, and querying. Now that you have the foundation of a basic RAG pipeline, you can start refining the approach by leveraging best practices and strategies for accuracy, scalability, and efficiency.
 
-To fully implement a RAG pipeline for real-world deployment, you may need to explore optimization techniques, deployment, monitoring, and scaling strategies.
+## Resources
+- For a detailed explanation of the tutorial, visit [RAG Pipelines - ProjectPro Blog](https://www.projectpro.io/article/rag-pipelines/1070)
+- Special thanks to [Nebeyou Musie](https://github.com/NebeyouMusie) for supporting the resources that made this tutorial possible.
 
-Now that you have the foundation of a basic RAG pipeline, you can start refining the approach by leveraging best practices and strategies for accuracy, scalability, and efficiency.
